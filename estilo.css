@@ -1,0 +1,15 @@
+canvas {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    background-color: black;
+    margin-top: -300px;
+    margin-left: -350px;
+  }
+  
+  div#menu {
+    position: relative;
+    margin: 20% 40%;
+    align-items: center;
+  }
+  
